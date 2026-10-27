@@ -16,20 +16,31 @@ In this project, you will walk through the steps to become familiar with using G
    > If you need a refresher on how to do this, refer to the [How To: Clone a Repo with GitHub Desktop](https://riosalado.coursearc.com/content/cis-public/git-github-and-vs-code/working-on-activities-and-assignments#How-To-Clone-and-Open-a-Repo) tutorial in the lesson material.
 2. Once you have cloned the repo, **open the repo within VS Code**.
 3. Open this `Readme.md` file in VS Code by right clicking on the file and selecting the **Open Preview** option.
+
    1. This will let you view the directions in VS Code instead of within GitHub.
    2. You can do this for all future assignments.
    > **VS Code Tip** - You can use the Split View feature (under the **View** menu, **Editor Layout** options) in VS Code to display the `Readme.md` file on one side and the files you need to edit on the other side.
 4. Within the `html` subfolder, open the `index.html` file and complete the following steps:
+
    1. Modify the `title` element to say the following: Setup Project
+
    2. Modify the level 1 heading so it displays your first and last name.
+
    3. Modify the list to add your GitHub username, course, section, and instructor's name.
+
    4. Answer the questions within the list replacing the `Response here` text.
+
    5. Create a level 2 heading with the following text: My Course Goals
+
    6. Create at least one new paragraph after the heading and write a brief introduction about yourself. Include what degree you are pursuing, what career you are looking to get into after you graduate, what attracts you to that career, and what you hope to learn in this course.
+
 5. Save the `index.html` file.
+
 6. **Apply a commit** for the changes you made to the HTML file.
    1. A good commit message would be: Added my details to the page
+   
 7. **Sync your changes** with GitHub.
+
    > If you need a refresher on how to do this, refer to the [How To: Sync Files with GitHub](https://riosalado.coursearc.com/content/cis-public/git-github-and-vs-code/working-on-activities-and-assignments#How-To-Apply-a-Commit-Sync-Your-Files-to-GitHub) tutorial in the lesson material.
 
 <br>
